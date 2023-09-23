@@ -5,20 +5,32 @@
         <title>jandexmusic</title>
     </head>
     <body>
-        <img src="./150px-Gclef.svg.png">
-        <ul>
-            <li>
-                <a href="index.vkmusic">vkmusic</a>
-                <ol>
-                    <li>popmusic</li>
-                    <li>rockmusic</li>
-                </ol>
-            </li>
-            <li>yandexmusic</li>
-        </ul>
-        <h1>Music</h1>
+        <header>
+            <img src="./150px-Gclef.svg.png">
+            <h1>Music</h1>
+        </header>
+        <nav>
+            <li>popmusic</li>
+            <ul>
+    <li>
+        <a href="index.vkmusic">vkmusic</a>
+        <ol>
+           <li>rockmusic</li>
+        </ol>
+    </li>
+    <li>yandexmusic</li>
+</ul>
+        </nav>
+<main>
+    <article>
         <h2>jandexmusic</h2>
         <p>и тут <a href="https://music.yandex.ru">jandexmusic</a>
         </p>
+    </article>
+
+</main>
+<footer>
+    2023
+</footer>
     </body>
 </html>
